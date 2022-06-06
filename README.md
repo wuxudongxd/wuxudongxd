@@ -1,6 +1,6 @@
 <!-- header -->
 <div align="center">
-<img src="./static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="./static/images/REHeader.png" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">I'm wuxudong, a front-end developer 👨‍💻 working since 2022 🚀</div>
